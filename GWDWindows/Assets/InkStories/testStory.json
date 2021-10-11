@@ -1,0 +1,24 @@
+﻿{
+  "inkVersion": 19,
+  "root": [
+    [
+      { "#": "Ferdinand" },
+      { "#": "Vanessa" },
+      
+      "^(hugs her mother) You’re the best, Ma! ",
+      "\n",
+      "end",
+      [
+        "done",
+        {
+          "#f": 7,
+          "#n": "g-0"
+        }
+      ],
+      null
+    ],
+    "done",
+    { "#f": 3 }
+  ],
+  "listDefs": {}
+}

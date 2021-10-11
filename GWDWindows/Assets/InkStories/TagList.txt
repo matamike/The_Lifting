@@ -1,0 +1,22 @@
+The following tags are currently in use:
+(In Ink, each tag is prefaced with #)
+(For the sake of cleanliness, tags should be organized in the below order)
+
+*Characters*
+Ferdinand
+Vanessa
+
+*Animations*
+Anim_Ferdinand_WalkToDoor
+Anim_Vanessa_WalkToDoor
+
+*Audio*
+Aud_SnickerAndSigh
+Aud_TurnPage
+
+*Sprites*
+Spri_Vanessa_Sitdown
+Spri_Vanessa_Stand
+Spri_Vanessa_EatCookie
+Spri_Ferdinand_Sitdown
+Spri_Ferdinand_Stand
